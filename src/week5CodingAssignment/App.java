@@ -1,4 +1,4 @@
-package week6CodingAssignment;
+package week5CodingAssignment;
 
 public class App {
 
